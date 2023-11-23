@@ -3,7 +3,7 @@ entries:
   seedly:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-23T16:29:32.453935908-04:00"
+    created: "2023-11-23T16:42:12.513540417-04:00"
     description: A Helm chart for Kubernetes
     digest: 09fa545da40d10572f4853c856e84f7f1e5f4d34bdbb02fc0dd08dbbe4fa1224
     name: seedly
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://bardic.github.io/k8s_repo/seedly-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-23T16:29:32.452695739-04:00"
+generated: "2023-11-23T16:42:12.512466989-04:00"
