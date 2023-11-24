@@ -3,7 +3,17 @@ entries:
   seedly:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-23T21:19:10.146397118-04:00"
+    created: "2023-11-24T08:15:55.24237014-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 735c6e3ee265798fcef1a5d54f28feefc1a7ca3ada6b3359a5173d48f3b07b36
+    name: seedly
+    type: application
+    urls:
+    - https://bardic.github.io/k8s_repo/seedly-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-24T08:15:55.240786912-04:00"
     description: A Helm chart for Kubernetes
     digest: 07a63512fc7cadb1ce3c65f3a8ac5c89c850a4dd3edba0339f8d503f4da7ac1a
     name: seedly
@@ -13,7 +23,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-23T21:19:10.145260994-04:00"
+    created: "2023-11-24T08:15:55.239657508-04:00"
     description: A Helm chart for Kubernetes
     digest: cf61d14b7f403c914eebf34938e413efc1f5cdb72b48439bc3fe45c219527712
     name: seedly
@@ -23,7 +33,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-23T21:19:10.144250028-04:00"
+    created: "2023-11-24T08:15:55.238598981-04:00"
     description: A Helm chart for Kubernetes
     digest: 76cde579c21c044910f77484ff270cd53f8a6930b870c9eb66a101bca3aea92e
     name: seedly
@@ -33,7 +43,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-23T21:19:10.143195046-04:00"
+    created: "2023-11-24T08:15:55.23751364-04:00"
     description: A Helm chart for Kubernetes
     digest: 13401e90699d7d9a850c0ac9db40c1e32a7efb6bd29faeae330445941a7f44df
     name: seedly
@@ -43,7 +53,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-23T21:19:10.142125704-04:00"
+    created: "2023-11-24T08:15:55.236291363-04:00"
     description: A Helm chart for Kubernetes
     digest: 04cc4d37d02c67fae4a4250f39656e7fd47a648dd8e95d9f4faf2f1a07ffce14
     name: seedly
@@ -53,7 +63,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-23T21:19:10.140725918-04:00"
+    created: "2023-11-24T08:15:55.235045136-04:00"
     description: A Helm chart for Kubernetes
     digest: 09fa545da40d10572f4853c856e84f7f1e5f4d34bdbb02fc0dd08dbbe4fa1224
     name: seedly
@@ -61,4 +71,4 @@ entries:
     urls:
     - https://bardic.github.io/k8s_repo/seedly-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-23T21:19:10.139066227-04:00"
+generated: "2023-11-24T08:15:55.233657956-04:00"
